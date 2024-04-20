@@ -37,8 +37,8 @@
 <!-- Captures d'écran de l'Application -->
 ## Captures d'écran
 
-![Capture d'écran 1](screenshots/screenshot1.png)
-![Capture d'écran 2](screenshots/screenshot2.png)
+![Capture d'écran 1](screenshot/screenshot1.png)
+![Capture d'écran 2](screenshot/screenshot2.png)
 
 <!-- Licence -->
 ## Licence
