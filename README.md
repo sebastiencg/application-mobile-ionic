@@ -36,9 +36,10 @@
 
 <!-- Captures d'écran de l'Application -->
 ## Captures d'écran
-
-![Capture d'écran 1](screenshots/Screenshot1.png)
-![Capture d'écran 2](screenshots/Screenshot2.png)
+<div style="display: flex; justify-content: space-between;">
+<img src="screenshots/Screenshot1.png" alt="Capture d'écran 1" width="300">
+<img src="screenshots/Screenshot2.png" alt="Capture d'écran 2" width="300">
+</div>
 
 <!-- Licence -->
 ## Licence
